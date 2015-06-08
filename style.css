@@ -1,0 +1,30 @@
+table, td, th {
+  border: 1px solid gray;
+}
+
+h3 {
+  text-align: center;
+}
+
+#username_availability_result {
+ color: red;
+}
+
+#pw_result {
+  color: red;
+}
+
+#error {
+ border-color: red;
+ border-style: solid;
+ border-width: medium;
+ color: red;
+}
+
+#logout {
+  text-align: right;
+}
+
+#teamheader h3 {
+text-align: left;
+}
